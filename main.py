@@ -9,6 +9,16 @@ print("succesfully installed pycharm in linux environment")
 def add(a,b):
     return a+b
 
-a = add(5,10)
+def sub(a,b)
+    return a-b
+    
+i = int(input('enter 1 or 2'))
 
+if(i==1):
+    sub(5-10)
+    
+else:
+    add(5+6)
+    
+    
 
